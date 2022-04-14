@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
+      # in case you forked airtable-export to a public repo and prefer to have the backups in a private one
+      # add a personal access token as secret ACCESSTOKEN
       with:
         repository: 'jory3/airtable_backups'
         ref: 'main'
