@@ -14,7 +14,7 @@ jobs:
       with:
         repository: 'jory3/airtable_backups'
         ref: 'main'
-        token: ${{ github.token }}
+        token: ${{ secrets.accesstoken }}
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
