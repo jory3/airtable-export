@@ -595,6 +595,8 @@
   airtable_id: recYrwdZH9Df5dvxD
 - Adresse: Schaanerstrasse 35
   Aussteller: '1'
+  Ausstellerausweise:
+  - recasEo3gkfwIpj3I
   Bemerkungen: "Die Anmeldung erfolgt im Namen von Elkuch Bator AG. Wir werden aber\
     \ als Elkuch Group auftreten.  Freundliche Gr\xFCsse M. Lierau"
   Completion Status: '1'
@@ -894,6 +896,8 @@
   airtable_id: reco9nSfC4fO8LmNp
 - Adresse: Thalstrasse 279
   Aussteller: '1'
+  Ausstellerausweise:
+  - recC1lFOZQgtmjaXW
   Completion Status: '1'
   Created By: public
   Date Created: '2019-11-04T09:18:35.000Z'
