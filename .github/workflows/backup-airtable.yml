@@ -12,7 +12,7 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
       with:
-        repository: 'jory3/airtable-backups'
+        repository: 'jory3/airtable_backups'
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
